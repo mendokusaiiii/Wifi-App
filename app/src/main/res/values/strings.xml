@@ -2,4 +2,7 @@
     <string name="app_name">Wifi App</string>
     <string name="vivo">vivo</string>
     <string name="fibra">fibra</string>
+    <string name="warning">WARNING</string>
+    <string name="enable_wifi">To use this app you need to enable the Wi-Fi</string>
+    <string name="ok">OK</string>
 </resources>
